@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\48571\source\repos\StdinSort\main.c(13,2): warning C4013: 'gets' undefined; assuming extern returning int
+  StdinSort.vcxproj -> C:\Users\48571\source\repos\StdinSort\x64\Debug\StdinSort.exe
